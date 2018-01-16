@@ -9,6 +9,6 @@ Il est possible de faire un wordcloud avec
 
 ## Wordcloud à partir d'un texte
 
-Ce premier exemple est un wordcloud réalisé sur tableau ([lien vers le tableau output](http://www.palmbeachpost.com/news/national/read-full-transcript-trump-rally-speech-florida/DeDCpoNEKLQmWcIKndWB0M/)) à partir d'un discours de campagne de Donald Trump. ([lien vers le transcript utilisé](http://www.palmbeachpost.com/news/national/read-full-transcript-trump-rally-speech-florida/DeDCpoNEKLQmWcIKndWB0M/))
+Ce premier exemple est un wordcloud réalisé sur tableau ([lien vers le tableau output](https://public.tableau.com/profile/roland7442#!/vizhome/TrumpCampainSpeechWordcloud/Feuille1?publish=yes)) à partir d'un discours de campagne de Donald Trump. ([lien vers le transcript utilisé](http://www.palmbeachpost.com/news/national/read-full-transcript-trump-rally-speech-florida/DeDCpoNEKLQmWcIKndWB0M/))
 
 ![Wordcloud](img/wordcloud.png)
