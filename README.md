@@ -37,6 +37,10 @@ Ce wordcloud représente la population de chaque pays du monde.
 
 ![Wordcloud](img/countries.png)
 
+Le nombre important de pays représentés diminue la lisibilité du graphique. Voici les mêmes données, mais en filtrant les pays ayant une population inférieure à 20000 habitants
+
+![Wordcloud](img/countries-small.png)
+
 ## Wordcloud 
 
 Ceci est un wordcloud sur les 100 prénoms de garçons les plus populaires (taille = nombre d'occurence)
@@ -50,3 +54,15 @@ Ceci est un wordcloud sur les 100 prénoms de garçons les plus populaires (tail
 A titre de comparaison, voici les mêmes données, mais affichés en diagramme à barre.
 
 ![Bars](img/names-bar.png)
+
+Dans le diagramme en barre, les mêmes données prennent bien plus de place à l'affichage et sont plus difficile à lire. On gagne cependant en précision.
+
+## Conclusion
+
+Les mots plus long sont plus mis en avant que les autres (United States et Christopher, par exemple)
+
+Les mots du milieu attirent forcément plus l'attention et sont donc plus mis en avant que ceux sur les bords.
+
+La couleur peut être utilisée pour accentuer l'effet de la taille.
+
+Réduire le nombre de mots dans un wordcloud le rends souvent plus lisible. On peut par exemple filter les mots les moins important.
