@@ -53,7 +53,7 @@ Ceci est un wordcloud sur les 100 prénoms de garçons les plus populaires (tail
 
 A titre de comparaison, voici les mêmes données, mais affichés en diagramme à barre.
 
-![Bars](img/names-bar.png)
+![Bars](img/names-bars.png)
 
 Dans le diagramme en barre, les mêmes données prennent bien plus de place à l'affichage et sont plus difficile à lire. On gagne cependant en précision.
 
